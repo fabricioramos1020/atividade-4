@@ -1,0 +1,2 @@
+Nome: fabricio; Notas: 8.0, 6.0, 9.0; Media: 7.67; Situacao: Aprovado
+Nome: fabricio; Notas: 7.0, 8.0, 6.0; Media: 7.00; Situacao: Aprovado
